@@ -28,7 +28,8 @@
     background: white;
   }
   form button {
-    color: #ff6f47;
+    /* color: #ff6f47; */
+    color: #f6d365;
     background: #f7fffe;
     cursor: pointer;
     transition: all 0.3s ease;
